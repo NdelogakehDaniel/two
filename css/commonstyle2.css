@@ -1,0 +1,12 @@
+body{
+    background-color: #baedf0;
+	}
+	.col-md{
+	background-color: #f89a9a;
+	}
+	tr:hover{
+		background-color: #e2f0ba;
+	}
+	td{
+		padding: 5px;
+	}
